@@ -1,0 +1,15 @@
+00e76102d8fccba175dc9c591d404032 *DESCRIPTION
+d50fce03c8f0acb5d6b1f462a1ac8212 *NAMESPACE
+8ad228d323ab145612ef19ba02fc2e3f *R/datacheck.R
+fe77437e4f3dfe2a65089447d36d6a19 *R/nbevent.R
+eb8cef28431126f430e769da58e5dfb6 *R/ncoprimary.R
+1427b1d4e46e139b94e52dff4f663e36 *R/nsurvival.R
+65aed386e8980675ed1f76c31752f69a *R/probafix.R
+2198949f47ad142ffd953289f976d376 *R/probanofix.R
+095228437ec77348a4f6c36aba8b1118 *man/coprimary-package.Rd
+1a6ddd08f6315e20dd47219413763eb5 *man/datacheck.Rd
+9b4f0e21c115430a4422e49985763f90 *man/nbevent.Rd
+240a77165d83f7de1f088b4408acbadf *man/ncoprimary.Rd
+575f34f1ef606458dc011a0fc81c1cda *man/nsurvival.Rd
+0c7240a919be855429fd0ea0450f1086 *man/probafix.Rd
+3360255ba11578a415a959705c027931 *man/probanofix.Rd
